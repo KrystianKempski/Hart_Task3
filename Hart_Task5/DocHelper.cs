@@ -107,7 +107,7 @@ namespace Hart_Task5
                     acces += " static";
                 }
 
-                var fullName = $"\t{acces} {method.ReturnType.Name}  {method.Name} ({string.Join(", ", method.GetParameters().Select(o => string.Format("{0} {1}", o.ParameterType, o.Name)).ToArray())}) {{ }}";
+                var fullName = $"\t{acces} {method.ReturnType.Name}  {method.Name} ({string.Join(", ", method.GetParameters().Select(o => string.Format("{0} {1}", o.ParameterType.Name, o.Name)).ToArray())}) {{ }}";
 
                 Console.WriteLine(fullName);
             }
