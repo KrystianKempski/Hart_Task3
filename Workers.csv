@@ -1,0 +1,101 @@
+WorkerID,Worker,ManagerID,BranchID,SupervisedBranchID,DepartmentName,PositionName
+1,Ludwik Wojciechowski,2,1,2,Dział finansowy,Pracownik działu finansowego
+2,Maciej Szymczak,2,1,2,Dział handlowy,Product manager
+3,Albert Krupa,2,1,3,Dział reklamacji,Pracownik działu reklamacji i jakości
+4,Damian Dąbrowski,4,1,,Magazyn,Magazynier
+5,Eryk Duda,4,1,4,Magazyn,Pomocnik magazyniera
+6,Ksawery Krupa,4,1,4,Magazyn,Magazynier
+7,Ludwik Lewandowski,4,1,,Magazyn,Magazynier
+8,Maksymilian Stępień,4,1,5,Magazyn,Magazynier
+9,Mariusz Borkowski,4,1,4,Magazyn,Pomocnik magazyniera
+10,Maurycy Sikorska,4,1,,Magazyn,Pomocnik magazyniera
+11,Patryk Krawczyk,12,2,,Dział finansowy,Pracownik działu finansowego
+12,Alan Michalak,12,2,,Dział handlowy,Pracownik działu handlowego
+13,Florian Cieślak,12,2,,Dział handlowy,Pracownik działu handlowego
+14,Eryk Błaszczyk,14,2,,Dział Transportu,Pracownik działu transportu
+15,Eugeniusz Kołodziej,14,2,,Dział Transportu,Pracownik działu transportu
+16,Alan Zalewski,21,2,,Magazyn,Magazynier
+17,Aleksy Szymański,21,2,,Magazyn,Magazynier
+18,Allan Lis,21,2,,Magazyn,Pomocnik magazyniera
+19,Bartłomiej Kaźmierczak,21,2,,Magazyn,Magazynier
+20,Bronisław Mazur,21,2,,Magazyn,Pomocnik magazyniera
+21,Bronisław Rutkowski,21,2,,Magazyn,Magazynier
+22,Ernest Krawczyk,21,2,,Magazyn,Magazynier
+23,Gabriel Marciniak,21,2,,Magazyn,Magazynier
+24,Jerzy Włodarczyk,21,2,,Magazyn,Pomocnik magazyniera
+25,Kuba Kwiatkowski,21,2,,Magazyn,Pomocnik magazyniera
+26,Marian Makowski,21,2,,Magazyn,Pomocnik magazyniera
+27,Przemysław Baran,21,2,,Magazyn,Magazynier
+28,Przemysław Kwiatkowski,21,2,,Magazyn,Magazynier
+29,Remigiusz Nowak,21,2,,Magazyn,Pomocnik magazyniera
+30,Borys Lewandowski,30,3,,Dział techniczny,Pracownik biurowy
+31,Franciszek Włodarczyk,45,3,,Dział Transportu,Pracownik działu transportu
+32,Adam Kubiak,45,3,,Magazyn,Pomocnik magazyniera
+33,Albert Krupa,45,3,,Magazyn,Magazynier
+34,Bogumił Nowak,45,3,,Magazyn,Pomocnik magazyniera
+35,Bruno Wójcik,45,3,,Magazyn,Pomocnik magazyniera
+36,Cezary Stępień,45,3,,Magazyn,Magazynier
+37,Daniel Kwiatkowski,45,3,,Magazyn,Magazynier
+38,Dariusz Sikorska,45,3,,Magazyn,Magazynier
+39,Edward Zakrzewska,45,3,,Magazyn,Pomocnik magazyniera
+40,Eryk Pietrzak,45,3,,Magazyn,Magazynier
+41,Kacper Kaczmarczyk,45,3,,Magazyn,Magazynier
+42,Maksymilian Rutkowski,45,3,,Magazyn,Pomocnik magazyniera
+43,Milan Głowacka,45,3,,Magazyn,Magazynier
+44,Miłosz Wysocki,45,3,,Magazyn,Magazynier
+45,Natan Szewczyk,45,3,,Magazyn,Magazynier
+46,Olaf Mazurek,45,3,,Magazyn,Magazynier
+47,Robert Górecki,45,3,,Magazyn,Pomocnik magazyniera
+48,Roman Marciniak,45,3,,Magazyn,Pomocnik magazyniera
+49,Bolesław Wojciechowski,49,4,,Dział finansowy,Pracownik działu finansowego
+50,Emanuel Kamiński,49,4,,Dział finansowy,Pracownik działu finansowego
+51,Arkadiusz Duda,49,4,,Dział prawny,Pracownik biurowy
+52,Bartosz Krupa,52,4,,Dział sprzedaży,Pracownik działu sprzedaży
+53,Oktawian Kubiak,81,4,,Dział techniczny,Pomocnik magazyniera
+54,Oskar Sadowska,81,4,,Dział techniczny,Magazynier
+55,Ernest Malinowski,81,4,,Dział Transportu,Pracownik działu transportu
+56,Konrad Kaźmierczak,81,4,,Dział Transportu,Pracownik działu transportu
+57,Norbert Czarnecki,81,4,,Dział Transportu,Pracownik działu transportu
+58,Alan Adamska,81,4,,Magazyn,Magazynier
+59,Alex Wiśniewski,81,4,,Magazyn,Pomocnik magazyniera
+60,Alojzy Szymczak,81,4,,Magazyn,Magazynier
+61,Amir Wojciechowski,81,4,,Magazyn,Magazynier
+62,Antoni Kwiatkowski,81,4,,Magazyn,Manager IT
+63,Aureliusz Kalinowski,81,4,,Magazyn,Pomocnik magazyniera
+64,Bronisław Krajewska,81,4,,Magazyn,Magazynier
+65,Damian Piotrowski,81,4,,Magazyn,Magazynier
+66,Ignacy Pawlak,81,4,,Magazyn,Pomocnik magazyniera
+67,Igor Dąbrowski,81,4,,Magazyn,Pomocnik magazyniera
+68,Igor Zakrzewska,81,4,,Magazyn,Magazynier
+69,Jacek Wasilewska,81,4,,Magazyn,Magazynier
+70,Jerzy Andrzejewski,81,4,,Magazyn,Magazynier
+71,Karol Andrzejewski,81,4,,Magazyn,Magazynier
+72,Krystian Zalewski,81,4,,Magazyn,Pomocnik magazyniera
+73,Krzysztof Kaczmarczyk,81,4,,Magazyn,Pomocnik magazyniera
+74,Lucjan Borkowski,81,4,,Magazyn,Pomocnik magazyniera
+75,Marek Andrzejewski,81,4,,Magazyn,Magazynier
+76,Mikołaj Michalak,81,4,,Magazyn,Magazynier
+77,Mikołaj Stępień,81,4,,Magazyn,Magazynier
+78,Miłosz Tomaszewski,81,4,,Magazyn,Pomocnik magazyniera
+79,Oktawian Rutkowski,81,4,,Magazyn,Magazynier
+80,Piotr Michalak,81,4,,Magazyn,Magazynier
+81,Rafał Szymczak,81,4,,Magazyn,Magazynier
+82,Ryszard Adamska,81,4,,Magazyn,Magazynier
+83,Maksymilian Woźniak,81,4,,Reklamacje,Specjalista do spraw wyposażenia warsztatowego
+84,Klaudiusz Kamiński,98,5,,Dział export,Pracownik dz.eksport-import
+85,Eryk Gajewska,98,5,,Dział finansowy,Pracownik działu personalnego
+86,Jacek Kubiak,98,5,,Dział handlowy,Asystent product managera
+87,Jarosław Laskowska,98,5,,Dział sprzedaży,Pracownik działu sprzedaży
+88,Damian Kucharski,98,5,,Działp personalny,Kierownik działu personalnego
+89,Alek Bąk,98,5,,Magazyn,Magazynier
+90,Alfred Dąbrowski,98,5,,Magazyn,Magazynier
+91,Artur Ostrowski,98,5,,Magazyn,Pomocnik magazyniera
+92,Aureliusz Szymczak,98,5,,Magazyn,Pomocnik magazyniera
+93,Bronisław Czerwiński,98,5,,Magazyn,Pomocnik magazyniera
+94,Czesław Czarnecki,98,5,,Magazyn,Magazynier
+95,Ireneusz Baranowski,98,5,,Magazyn,Magazynier
+96,Jan Chmielewski,98,5,,Magazyn,Pomocnik magazyniera
+97,Jarosław Witkowski,98,5,,Magazyn,Pomocnik magazyniera
+98,Joachim Duda,98,5,,Magazyn,Magazynier
+99,Józef Zakrzewska,98,5,,Magazyn,Magazynier
+100,Amadeusz Kaczmarczyk,98,5,,Reklamacje,Pracownik działu reklamacji i jakości
